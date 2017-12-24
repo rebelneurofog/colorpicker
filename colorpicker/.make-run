@@ -1,0 +1,4 @@
+make && ./colorpicker "0xa30020ff"
+#make && ./colorpicker "QColor red (75, 64, 86);"
+#make && ./colorpicker "QColor (0xff3132ff);"
+#make && ./colorpicker "QColor red (0xff, 0x31, 0x32);"

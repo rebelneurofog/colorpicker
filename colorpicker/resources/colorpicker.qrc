@@ -1,0 +1,8 @@
+<!DOCTYPE RCC><RCC version="1.0">
+  <qresource prefix="/">
+    <!-- Loaded once resources -->
+    <file>images/landscape.png</file>
+
+    <file>translations/ru.qm</file>
+  </qresource>
+</RCC>

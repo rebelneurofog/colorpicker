@@ -1,0 +1,7 @@
+- BUGFIX: color recognition
+
+- Implement cursors for small triangle
+- Think of:
+  - rgb(0%, 100%, 22%)
+  - (0, 255, 56, 0.5)
+  - (0%, 0%, 100%, 0.5);
